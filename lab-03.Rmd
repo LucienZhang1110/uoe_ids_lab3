@@ -2,7 +2,7 @@
 title: "Lab 03 - Take a sad plot and make it better"
 
 
-author: "Tudor, 'sunmengchuan',Jiacheng Zhang and User4 - Templers"
+author: "Tudor, 'sunmengchuan',Jiacheng Zhang - Templers"
 
 date: "`r Sys.Date()`"
 output: html_document
@@ -25,8 +25,8 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
 _Write your comments about image 1 below_
-
-
+data of Chinese is wrong
+area is not proportional to the numbers
 
 
 
@@ -37,7 +37,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+using pie chart to represent individual data instead of ratio in total, etc.
 
 
 
@@ -48,7 +48,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+cannot see each observation clearly
 
 
 
@@ -59,7 +59,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+data from different countries should be represented seperately
 
 
 
