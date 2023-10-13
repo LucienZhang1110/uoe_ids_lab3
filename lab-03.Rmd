@@ -81,7 +81,7 @@ Is the format `staff` data *wide* or *long*?
 
 How many observations are there in the data set?
 
-
+staff is wide; 11 observations
 
 
 ## Exercise 2
