@@ -150,7 +150,12 @@ ggplot(data = staff_long,
 
 ```{r better-line-plot}
 # Write your code for Exercise 6 here
-
+ggplot(data = staff_long,
+       mapping = aes(x = year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+  geom_line() + 
+  labs(title = "Changes of faculty in 40 years")
 
 
 
